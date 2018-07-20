@@ -1,0 +1,8 @@
+2018/07/20 15:51:14.521 [1;34m[I] [asm_amd64.s:2337] http server Running on http://:8080[0m
+2018/07/20 15:51:14.522 [1;34m[I] [asm_amd64.s:2337] Admin server Running on :8088[0m
+2018/07/20 15:53:36.971 [1;44m[D] [server.go:2619] 116.236.188.246 - - [20/Jul/2018 03:53:36] "GET / HTTP/1.1 200 0" 0.002658  Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+[0m
+2018/07/20 15:53:37.118 [1;44m[D] [server.go:2619] 116.236.188.246 - - [20/Jul/2018 03:53:37] "GET /static/js/reload.min.js HTTP/1.1 304 0" 0.000152 http://39.107.255.44:8080/ Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+[0m
+2018/07/20 15:57:56.086 [1;34m[I] [asm_amd64.s:2337] http server Running on http://:8080[0m
+2018/07/20 15:57:56.087 [1;34m[I] [asm_amd64.s:2337] Admin server Running on :8088[0m
